@@ -1,0 +1,5 @@
+Simulation palpation no nodule with Standard linear solid model and probe damping.
+
+The file simu_palpdyn_damp_prob.m is the one to run to obtain the plots. 
+
+run_simutissuedyn_damp_prob.m contains the ODE function.
